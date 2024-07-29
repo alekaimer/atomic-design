@@ -3,3 +3,7 @@
   flex-direction: row;
   gap: 12px;
 }
+
+.wrapper > div {
+  width: calc(33.3% - 12px);
+}
