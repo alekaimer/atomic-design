@@ -1,6 +1,6 @@
 #Atomic Design System
 
-Based on https://atomicdesign.bradfrost.com/
+Based on https://atomicdesign.bradfrost.com/ and https://www.youtube.com/watch?v=zaaknDxK-Fg
 
 Utilities links:
 https://bradfrost.com/blog/post/atomic-web-design/
